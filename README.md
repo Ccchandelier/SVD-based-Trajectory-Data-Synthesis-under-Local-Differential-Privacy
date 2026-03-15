@@ -1,4 +1,5 @@
-# SVD-based-Trajectory-Data-Synthesis-under-Local-Differential-Privacy
+# SVD-based Trajectory Data Synthesis underLocal Differential Privacy
+
 论文公开发布地址链接：https://link.springer.com/book/9789819557158
 
 1.geolife —— https://blog.csdn.net/qq_40206371/article/details/132720965?spm=1001.2014.3001.5501  
